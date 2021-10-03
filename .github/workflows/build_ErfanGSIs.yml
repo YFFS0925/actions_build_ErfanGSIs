@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://download.exthmui.cn/exthmui/raphael/exthm-11.0-20210830-NUCLEAR-SNAPSHOT-raphael-Vanilla.zip
   ROM_NAME: Generic
-  BUILD_TYPE: Aonly
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
